@@ -57,7 +57,7 @@ Classification Datasets:
 (a) Iris dataset D1: Target attribute class:Iris Setosa, Iris Versicolour, Iris Virginica (https://archive.ics.uci.edu/ml/datasets/Iris)
 (b) Wine Quality called D2: winequality-red.csv (http://archive.ics.uci.edu/ml/datasets/Wine+Quality)
 ```
-#### 8と9 はない。
+#### 8 & 9 NA
 
 #### 10-1 Recommender System
 #### 10-2 Matrix Factorization problem by Stochastic Gradient Descent (SGD) or Alternating Least Square(ALS) or Coordinate Descent(CD) learning algorithms
