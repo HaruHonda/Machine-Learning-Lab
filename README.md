@@ -76,7 +76,7 @@ Recommender Datasets:
 ```
 Question 11. Datasets 
 Sparse dataset :
-(a) IRIS dataset D1: https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/multiclass/iris.scale
+(a) IRIS dataset D1: (https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/multiclass/iris.scale)
 (b) rcv1v2 (topics; subsets) D2: (https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/multilabel.html)
 (c) 20Newsgroups dataset D3: (http://qwone.com/~jason/20Newsgroups/)
 ```
