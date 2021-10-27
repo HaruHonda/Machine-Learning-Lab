@@ -69,8 +69,6 @@ Recommender Datasets:
 (b) The RMSE score for rating prediction D2: Mymedialite website (http://www.mymedialite.net/examples/datasets.html)
 ```
 #### 11-1 K Means clustering algorithm
-#### 11-2 Matrix Factorization problem by Stochastic Gradient Descent (SGD) or Alternating Least Square(ALS) or Coordinate Descent(CD) learning algorithms
-#### 11-3 Matrix Factorization problem by libmf and sckit-learn
 ```
 Question 11. Datasets 
 Sparse dataset :
