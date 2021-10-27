@@ -49,3 +49,11 @@ ii. Generate target using y = 1.3x^2 + 4.8x + 8 + ψ, where ψ randomly initiali
 Wine Quality called D2: 
 Winequality-red.csv (http://archive.ics.uci.edu/ml/datasets/Wine+Quality)
 ```
+#### 7-1 K-Nearest Neighbor
+#### 7-2 Determine Optimal Value of K in KNN algorithm.
+```
+Question 7. Datasets 
+Classification Datasets: 
+(a) Iris dataset D1: Target attribute class:Iris Setosa, Iris Versicolour, Iris Virginica (https://archive.ics.uci.edu/ml/datasets/Iris)
+(b) Wine Quality called D2: winequality-red.csv (http://archive.ics.uci.edu/ml/datasets/Wine+Quality)
+```
