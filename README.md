@@ -13,9 +13,12 @@ Question 2. Datasets
 #### 3-2 Step Length for Gradient Descent 
 ```
 Question 3. Datasets 
-(a) Airfare and demand: target is price
-(b) Wine Quality: target is quality
-(c) Parkisons Dataset: target is total UPDRS
+(a) Airfare and demand: 
+# Note: target is price
+(b) Wine Quality:
+# Note: target is quality
+(c) Parkisons Dataset:
+# Note: target is total UPDRS
 ```
 #### 4-1 Logistic Regression with stochastic gradient ascent algorithm. (Classification)
 #### 4-2 Newton Algorithm (Classification)
@@ -54,7 +57,8 @@ Winequality-red.csv (http://archive.ics.uci.edu/ml/datasets/Wine+Quality)
 ```
 Question 7. Datasets 
 Classification Datasets: 
-(a) Iris dataset D1: Target attribute class:Iris Setosa, Iris Versicolour, Iris Virginica (https://archive.ics.uci.edu/ml/datasets/Iris)
+(a) Iris dataset D1: (https://archive.ics.uci.edu/ml/datasets/Iris)
+# Note: Target attribute class:Iris Setosa, Iris Versicolour, Iris Virginica 
 (b) Wine Quality called D2: winequality-red.csv (http://archive.ics.uci.edu/ml/datasets/Wine+Quality)
 ```
 #### 8 & 9 NA
