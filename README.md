@@ -1,8 +1,8 @@
 # Machine Learning
 
-#### 1-1.Grading Program [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/HaruHonda/e1715f871f273e67f5e520780c9fe528/grading-program.ipynb)
-#### 2-1.Linear Regression via Normal Equations 
-#### 2-2.learn-linreg-NormEq with Gaussian elimination and QR decomposition
+#### 1-1 Grading Program [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/HaruHonda/e1715f871f273e67f5e520780c9fe528/grading-program.ipynb)
+#### 2-1 Linear Regression via Normal Equations 
+#### 2-2 learn-linreg-NormEq with Gaussian elimination and QR decomposition
 ```
 Question 2. Datasets 
 The 1985 Auto Imports Database is made up of information about the cars that were imported during the year 1987.
