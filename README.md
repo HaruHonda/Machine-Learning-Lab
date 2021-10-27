@@ -58,7 +58,7 @@ Winequality-red.csv (http://archive.ics.uci.edu/ml/datasets/Wine+Quality)
 Question 7. Datasets 
 Classification Datasets: 
 (a) Iris dataset D1: (https://archive.ics.uci.edu/ml/datasets/Iris)
-# Note: Target attribute class:Iris Setosa, Iris Versicolour, Iris Virginica 
+# Note: Target attribute classes are Iris Setosa, Iris Versicolour and Iris Virginica 
 (b) Wine Quality called D2: winequality-red.csv (http://archive.ics.uci.edu/ml/datasets/Wine+Quality)
 ```
 #### 8 & 9 NA
