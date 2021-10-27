@@ -34,3 +34,18 @@ Bank Marketing / bank.csv(https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
 Regression datasets:
 Wine Quality(http://archive.ics.uci.edu/ml/datasets/Wine+Quality)
 ```
+#### 6-1 Ordinary Least Squares with Stochastic Gradient Descent (SGD)
+#### 6-2 Ridge Regression with Stochastic Gradient Descent (SGD)
+#### 6-3 LASSO with Stochastic Gradient Descent (SGD)
+#### 6-4 Hyperparameter with GridSearchCV
+#### 6-5 Evaluate each model using cross val score
+#### 6-6 Higher Order Polynomial Regression
+#### 6-7 Lasso Regression along with Coordinate Descent.
+```
+Question 6. Datasets 
+Generate a Sample dataset called D1 :
+i. Initialize matrix using Uniform distribution with μ = 1 and σ = 0.05
+ii. Generate target using y = 1.3x^2 + 4.8x + 8 + ψ, where ψ randomly initialized.
+Wine Quality called D2: 
+Winequality-red.csv (http://archive.ics.uci.edu/ml/datasets/Wine+Quality)
+```
