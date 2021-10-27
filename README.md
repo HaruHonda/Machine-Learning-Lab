@@ -50,10 +50,31 @@ Wine Quality called D2:
 Winequality-red.csv (http://archive.ics.uci.edu/ml/datasets/Wine+Quality)
 ```
 #### 7-1 K-Nearest Neighbor
-#### 7-2 Determine Optimal Value of K in KNN algorithm.
+#### 7-2 Determine Optimal Value of K in KNN algorithm
 ```
 Question 7. Datasets 
 Classification Datasets: 
 (a) Iris dataset D1: Target attribute class:Iris Setosa, Iris Versicolour, Iris Virginica (https://archive.ics.uci.edu/ml/datasets/Iris)
 (b) Wine Quality called D2: winequality-red.csv (http://archive.ics.uci.edu/ml/datasets/Wine+Quality)
+```
+#### 8と9 はない。
+
+#### 10-1 Recommender System
+#### 10-2 Matrix Factorization problem by Stochastic Gradient Descent (SGD) or Alternating Least Square(ALS) or Coordinate Descent(CD) learning algorithms
+#### 10-3 Matrix Factorization problem by libmf and sckit-learn
+```
+Question 10. Datasets 
+Recommender Datasets:
+(a) Movielens 100k dataset D1: Rating prediction dataset (http://grouplens.org/datasets/movielens/100k/)
+(b) The RMSE score for rating prediction D2: Mymedialite website (http://www.mymedialite.net/examples/datasets.html)
+```
+#### 11-1 K Means clustering algorithm
+#### 11-2 Matrix Factorization problem by Stochastic Gradient Descent (SGD) or Alternating Least Square(ALS) or Coordinate Descent(CD) learning algorithms
+#### 11-3 Matrix Factorization problem by libmf and sckit-learn
+```
+Question 11. Datasets 
+Sparse dataset :
+(a) IRIS dataset D1: https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/multiclass/iris.scale
+(b) rcv1v2 (topics; subsets D2: https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/multilabel.html#rcv1v2(topics;subsets)
+(c) 20Newsgroups dataset D3: http://qwone.com/~jason/20Newsgroups/
 ```
