@@ -5,7 +5,7 @@
 #### 2-2 learn-linreg-NormEq with Gaussian elimination and QR decomposition
 ```
 Question 2. Datasets 
-The 1985 Auto Imports Database is made up of information about the cars that were imported during the year 1987.
+(a) The 1985 Auto Imports Database
 - import-85.names is the helper file which contains information regarding the dataset
 - import-85.data is a CSV file with the actual data
 ```
@@ -13,16 +13,16 @@ The 1985 Auto Imports Database is made up of information about the cars that wer
 #### 3-2 Step Length for Gradient Descent 
 ```
 Question 3. Datasets 
-Airfare and demand: target -> price
-Wine Quality: target -> quality
-Parkisons Dataset: target -> total UPDRS
+(a) Airfare and demand: target is price
+(b) Wine Quality: target is quality
+(c) Parkisons Dataset: target is total UPDRS
 ```
 #### 4-1 Logistic Regression with stochastic gradient ascent algorithm. (Classification)
 #### 4-2 Newton Algorithm (Classification)
 ```
 Question 4. Datasets 
 Classification dataset:
-Tic Tac Toe
+(a) Tic Tac Toe
 ```
 #### 5-1 Ridge Regression using mini-Batch Gradient Descent algorithm (SGD)
 #### 5-2 Learning Rate: AdaGrad, Bold-Driver and fixed stepsize
@@ -30,9 +30,9 @@ Tic Tac Toe
 ```
 Question 5. Datasets 
 Classification datasets:
-Bank Marketing / bank.csv(https://archive.ics.uci.edu/ml/datasets/Bank+Marketing)
+(a) Bank Marketing / bank.csv(https://archive.ics.uci.edu/ml/datasets/Bank+Marketing)
 Regression datasets:
-Wine Quality(http://archive.ics.uci.edu/ml/datasets/Wine+Quality)
+(b) Wine Quality(http://archive.ics.uci.edu/ml/datasets/Wine+Quality)
 ```
 #### 6-1 Ordinary Least Squares with Stochastic Gradient Descent (SGD)
 #### 6-2 Ridge Regression with Stochastic Gradient Descent (SGD)
@@ -43,10 +43,10 @@ Wine Quality(http://archive.ics.uci.edu/ml/datasets/Wine+Quality)
 #### 6-7 Lasso Regression along with Coordinate Descent.
 ```
 Question 6. Datasets 
-Generate a Sample dataset called D1 :
+(a) Generate a Sample dataset called D1 :
 i. Initialize matrix using Uniform distribution with μ = 1 and σ = 0.05
 ii. Generate target using y = 1.3x^2 + 4.8x + 8 + ψ, where ψ randomly initialized.
-Wine Quality called D2: 
+(b) Wine Quality called D2: 
 Winequality-red.csv (http://archive.ics.uci.edu/ml/datasets/Wine+Quality)
 ```
 #### 7-1 K-Nearest Neighbor
