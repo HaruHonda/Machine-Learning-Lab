@@ -67,18 +67,17 @@ Classification Datasets:
 # Note: Target attribute classes are Iris Setosa, Iris Versicolour and Iris Virginica 
 (b) Wine Quality called D2: winequality-red.csv (http://archive.ics.uci.edu/ml/datasets/Wine+Quality)
 ```
-#### 8 & 9 NA
+#### 8 NA
 
-#### 10-1 Recommender System
-#### 10-2 Matrix Factorization problem by Stochastic Gradient Descent (SGD) or Alternating Least Square(ALS) or Coordinate Descent(CD) learning algorithms
-#### 10-3 Matrix Factorization problem by libmf and sckit-learn
+#### 9-1 Spam filter using SVM [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/HaruHonda/425a0cc857a7aa178dd5db74bd182f79/harukihonda.ipynb)
+#### 9-2 Compare SVM based spam filter with another model [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/HaruHonda/425a0cc857a7aa178dd5db74bd182f79/harukihonda.ipynb)
 ```
-Question 10. Datasets 
-Recommender Datasets:
-(a) Movielens 100k dataset D1: Rating prediction dataset (http://grouplens.org/datasets/movielens/100k/)
-(b) The RMSE score for rating prediction D2: Mymedialite website (http://www.mymedialite.net/examples/datasets.html)
+Question 10. Datasets
+(a) Sparse Dataset / w8a dataset D1: (https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/binary.html#w8a)
+(b) UCI Dataset / SMS Spam D2: (https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection)
+(c) UCI Dataset / Spambase D3: (https://archive.ics.uci.edu/ml/datasets/Spambase)
 ```
-#### 11-1 K Means clustering algorithm
+#### 10-1 K Means clustering algorithm
 ```
 Question 11. Datasets 
 Sparse dataset :
