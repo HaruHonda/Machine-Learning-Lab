@@ -23,8 +23,8 @@ Question 3. Datasets
 # Note: target is total UPDRS
 ```
 ##### --%
-#### 4-1 Logistic Regression with stochastic gradient ascent algorithm. (Classification)
-#### 4-2 Newton Algorithm (Classification)
+#### 4-1 Logistic Regression with stochastic gradient ascent algorithm. (Classification) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/HaruHonda/9f2ebf459fe6d7414fb475320703b818/haruki_honda.ipynb)
+#### 4-2 Newton Algorithm (Classification) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/HaruHonda/9f2ebf459fe6d7414fb475320703b818/haruki_honda.ipynb)
 ```
 Question 4. Datasets 
 Classification dataset:
