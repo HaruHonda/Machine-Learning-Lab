@@ -1,6 +1,7 @@
 # Machine Learning
-
+##### 95%
 #### 1-1 Grading Program [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/HaruHonda/e1715f871f273e67f5e520780c9fe528/grading-program.ipynb)
+##### 90%
 #### 2-1 Linear Regression via Normal Equations [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UwKlZ5SwygZwWU-MPvFe0rD-gE4PEFxl#scrollTo=SfodSubLJVJX)
 #### 2-2 learn-linreg-NormEq with Gaussian elimination and QR decomposition
 ```
@@ -9,6 +10,7 @@ Question 2. Datasets
 - import-85.names is the helper file which contains information regarding the dataset
 - import-85.data is a CSV file with the actual data
 ```
+##### 90%
 #### 3-1 Linear Regression with Gradient Descent　[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/HaruHonda/230316795c668900890b4c119e1a95d9/harukihonda_305304_pml.ipynb)
 #### 3-2 Step Length for Gradient Descent [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/HaruHonda/230316795c668900890b4c119e1a95d9/harukihonda_305304_pml.ipynb)
 ```
@@ -20,6 +22,7 @@ Question 3. Datasets
 (c) Parkisons Dataset:
 # Note: target is total UPDRS
 ```
+##### --%
 #### 4-1 Logistic Regression with stochastic gradient ascent algorithm. (Classification)
 #### 4-2 Newton Algorithm (Classification)
 ```
@@ -27,6 +30,7 @@ Question 4. Datasets
 Classification dataset:
 (a) Tic Tac Toe
 ```
+##### 100%
 #### 5-1 Ridge Regression using mini-Batch Gradient Descent algorithm (SGD)　[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/HaruHonda/7fbd40fe641da9bedcb9c87138738693/harukihonda.ipynb)
 #### 5-2 Learning Rate: AdaGrad, Bold-Driver and fixed stepsize　[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/HaruHonda/7fbd40fe641da9bedcb9c87138738693/harukihonda.ipynb)
 #### 5-3 Grid search with k-fold cross-validation for model selection　[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/HaruHonda/7fbd40fe641da9bedcb9c87138738693/harukihonda.ipynb)
@@ -37,6 +41,7 @@ Classification datasets:
 Regression datasets:
 (b) Wine Quality(http://archive.ics.uci.edu/ml/datasets/Wine+Quality)
 ```
+##### 90%
 #### 6-1 Ordinary Least Squares with Stochastic Gradient Descent (SGD) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/HaruHonda/7fbd40fe641da9bedcb9c87138738693/harukihonda.ipynb)
 #### 6-2 Ridge Regression with Stochastic Gradient Descent (SGD) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/HaruHonda/7fbd40fe641da9bedcb9c87138738693/harukihonda.ipynb)
 #### 6-3 LASSO with Stochastic Gradient Descent (SGD) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/HaruHonda/7fbd40fe641da9bedcb9c87138738693/harukihonda.ipynb)
@@ -52,8 +57,9 @@ ii. Generate target using y = 1.3x^2 + 4.8x + 8 + ψ, where ψ randomly initiali
 (b) Wine Quality called D2: 
 Winequality-red.csv (http://archive.ics.uci.edu/ml/datasets/Wine+Quality)
 ```
-#### 7-1 K-Nearest Neighbor
-#### 7-2 Determine Optimal Value of K in KNN algorithm
+##### 100%
+#### 7-1 K-Nearest Neighbor [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/HaruHonda/e4161ebc29204b2beb11ae195eebf7e0/harukihonda.ipynb)
+#### 7-2 Determine Optimal Value of K in KNN algorithm [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/HaruHonda/e4161ebc29204b2beb11ae195eebf7e0/harukihonda.ipynb)
 ```
 Question 7. Datasets 
 Classification Datasets: 
