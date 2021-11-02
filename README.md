@@ -91,7 +91,8 @@ Recommender Datasets:
 #### 11-1 K Means clustering algorithm [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/HaruHonda/58a69b7dc6438391d9784f63f97d2f3e/harukihonda.ipynb)
 ```
 Question 10. Datasets 
-Recommender Datasets:
-(a) movielens 100k dataset D1: Rating prediction dataset (http://grouplens.org/datasets/movielens/100k/)
-(b) The RMSE score for rating prediction is available at Mymedialite website (http://www.mymedialite.net/examples/datasets.html)
+Sparse dataset :
+(a) IRIS dataset D1: (https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/multiclass/iris.scale)
+(b) rcv1v2 (topics; subsets D2: (https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/multilabel.html)
+(c) 20Newsgroups dataset D3: (http://qwone.com/~jason/20Newsgroups/)
 ```
