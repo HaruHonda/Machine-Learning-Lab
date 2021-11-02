@@ -27,9 +27,9 @@ Question 4. Datasets
 Classification dataset:
 (a) Tic Tac Toe
 ```
-#### 5-1 Ridge Regression using mini-Batch Gradient Descent algorithm (SGD)
-#### 5-2 Learning Rate: AdaGrad, Bold-Driver and fixed stepsize
-#### 5-3 Grid search with k-fold cross-validation for model selection
+#### 5-1 Ridge Regression using mini-Batch Gradient Descent algorithm (SGD)　[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/HaruHonda/7fbd40fe641da9bedcb9c87138738693/harukihonda.ipynb)
+#### 5-2 Learning Rate: AdaGrad, Bold-Driver and fixed stepsize　[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/HaruHonda/7fbd40fe641da9bedcb9c87138738693/harukihonda.ipynb)
+#### 5-3 Grid search with k-fold cross-validation for model selection　[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/HaruHonda/7fbd40fe641da9bedcb9c87138738693/harukihonda.ipynb)
 ```
 Question 5. Datasets 
 Classification datasets:
