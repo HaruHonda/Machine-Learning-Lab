@@ -72,16 +72,17 @@ Classification Datasets:
 #### 9-1 Spam filter using SVM [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/HaruHonda/425a0cc857a7aa178dd5db74bd182f79/harukihonda.ipynb)
 #### 9-2 Compare SVM based spam filter with another model [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/HaruHonda/425a0cc857a7aa178dd5db74bd182f79/harukihonda.ipynb)
 ```
-Question 10. Datasets
+Question 9. Datasets
 (a) Sparse Dataset / w8a dataset D1: (https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/binary.html#w8a)
 (b) UCI Dataset / SMS Spam D2: (https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection)
 (c) UCI Dataset / Spambase D3: (https://archive.ics.uci.edu/ml/datasets/Spambase)
 ```
-#### 10-1 K Means clustering algorithm
+#### 10-1 Implement basic matrix factorization (MF) technique for recommender systems
+#### 10-2 Recommender Systems using matrix factorization libmf / sckit-learn
 ```
-Question 11. Datasets 
-Sparse dataset :
-(a) IRIS dataset D1: (https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/multiclass/iris.scale)
-(b) rcv1v2 (topics; subsets) D2: (https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/multilabel.html)
-(c) 20Newsgroups dataset D3: (http://qwone.com/~jason/20Newsgroups/)
+Question 10. Datasets 
+Recommender Datasets:
+(a) movielens 100k dataset D1: Rating prediction dataset (http://grouplens.org/datasets/movielens/100k/)
+(b) The RMSE score for rating prediction is available at Mymedialite website (http://www.mymedialite.net/examples/datasets.html)
 ```
+#### 11-1 K Means clustering algorithm
