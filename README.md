@@ -9,8 +9,8 @@ Question 2. Datasets
 - import-85.names is the helper file which contains information regarding the dataset
 - import-85.data is a CSV file with the actual data
 ```
-#### 3-1 Linear Regression with Gradient Descent
-#### 3-2 Step Length for Gradient Descent 
+#### 3-1 Linear Regression with Gradient Descent　[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/HaruHonda/6ce0a68bd434f0a0fee2b05b644084cc/harukihonda_305304_pml.ipynb#scrollTo=BQ0XxJvcEy91)
+#### 3-2 Step Length for Gradient Descent [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/HaruHonda/6ce0a68bd434f0a0fee2b05b644084cc/harukihonda_305304_pml.ipynb#scrollTo=BQ0XxJvcEy91)
 ```
 Question 3. Datasets 
 (a) Airfare and demand: 
