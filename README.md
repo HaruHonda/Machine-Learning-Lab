@@ -37,13 +37,13 @@ Classification datasets:
 Regression datasets:
 (b) Wine Quality(http://archive.ics.uci.edu/ml/datasets/Wine+Quality)
 ```
-#### 6-1 Ordinary Least Squares with Stochastic Gradient Descent (SGD)
-#### 6-2 Ridge Regression with Stochastic Gradient Descent (SGD)
-#### 6-3 LASSO with Stochastic Gradient Descent (SGD)
-#### 6-4 Hyperparameter with GridSearchCV
-#### 6-5 Evaluate each model using cross val score
-#### 6-6 Higher Order Polynomial Regression
-#### 6-7 Lasso Regression along with Coordinate Descent.
+#### 6-1 Ordinary Least Squares with Stochastic Gradient Descent (SGD) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/HaruHonda/7fbd40fe641da9bedcb9c87138738693/harukihonda.ipynb)
+#### 6-2 Ridge Regression with Stochastic Gradient Descent (SGD) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/HaruHonda/7fbd40fe641da9bedcb9c87138738693/harukihonda.ipynb)
+#### 6-3 LASSO with Stochastic Gradient Descent (SGD) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/HaruHonda/7fbd40fe641da9bedcb9c87138738693/harukihonda.ipynb)
+#### 6-4 Hyperparameter with GridSearchCV [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/HaruHonda/7fbd40fe641da9bedcb9c87138738693/harukihonda.ipynb)
+#### 6-5 Evaluate each model using cross val score [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/HaruHonda/7fbd40fe641da9bedcb9c87138738693/harukihonda.ipynb)
+#### 6-6 Higher Order Polynomial Regression [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/HaruHonda/7fbd40fe641da9bedcb9c87138738693/harukihonda.ipynb)
+#### 6-7 Lasso Regression along with Coordinate Descent. 
 ```
 Question 6. Datasets 
 (a) Generate a Sample dataset called D1 :
