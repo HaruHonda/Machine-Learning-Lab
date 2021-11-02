@@ -69,6 +69,7 @@ Classification Datasets:
 ```
 #### 8 NA
 
+##### 80%
 #### 9-1 Spam filter using SVM [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/HaruHonda/425a0cc857a7aa178dd5db74bd182f79/harukihonda.ipynb)
 #### 9-2 Compare SVM based spam filter with another model [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/HaruHonda/425a0cc857a7aa178dd5db74bd182f79/harukihonda.ipynb)
 ```
@@ -77,6 +78,7 @@ Question 9. Datasets
 (b) UCI Dataset / SMS Spam D2: (https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection)
 (c) UCI Dataset / Spambase D3: (https://archive.ics.uci.edu/ml/datasets/Spambase)
 ```
+##### 98%
 #### 10-1 Implement basic matrix factorization (MF) technique for recommender systems
 #### 10-2 Recommender Systems using matrix factorization libmf / sckit-learn
 ```
@@ -85,4 +87,5 @@ Recommender Datasets:
 (a) movielens 100k dataset D1: Rating prediction dataset (http://grouplens.org/datasets/movielens/100k/)
 (b) The RMSE score for rating prediction is available at Mymedialite website (http://www.mymedialite.net/examples/datasets.html)
 ```
+##### 80%
 #### 11-1 K Means clustering algorithm
