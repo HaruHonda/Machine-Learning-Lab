@@ -89,3 +89,9 @@ Recommender Datasets:
 ```
 ##### 80%
 #### 11-1 K Means clustering algorithm
+```
+Question 10. Datasets 
+Recommender Datasets:
+(a) movielens 100k dataset D1: Rating prediction dataset (http://grouplens.org/datasets/movielens/100k/)
+(b) The RMSE score for rating prediction is available at Mymedialite website (http://www.mymedialite.net/examples/datasets.html)
+```
