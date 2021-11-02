@@ -79,8 +79,8 @@ Question 9. Datasets
 (c) UCI Dataset / Spambase D3: (https://archive.ics.uci.edu/ml/datasets/Spambase)
 ```
 ##### 98%
-#### 10-1 Implement basic matrix factorization (MF) technique for recommender systems
-#### 10-2 Recommender Systems using matrix factorization libmf / sckit-learn
+#### 10-1 Implement basic matrix factorization (MF) technique for recommender systems [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/HaruHonda/58a69b7dc6438391d9784f63f97d2f3e/harukihonda.ipynb)
+#### 10-2 Recommender Systems using matrix factorization libmf / sckit-learn [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/HaruHonda/58a69b7dc6438391d9784f63f97d2f3e/harukihonda.ipynb)
 ```
 Question 10. Datasets 
 Recommender Datasets:
@@ -88,7 +88,7 @@ Recommender Datasets:
 (b) The RMSE score for rating prediction is available at Mymedialite website (http://www.mymedialite.net/examples/datasets.html)
 ```
 ##### 80%
-#### 11-1 K Means clustering algorithm
+#### 11-1 K Means clustering algorithm [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/HaruHonda/58a69b7dc6438391d9784f63f97d2f3e/harukihonda.ipynb)
 ```
 Question 10. Datasets 
 Recommender Datasets:
