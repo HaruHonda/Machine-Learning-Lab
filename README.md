@@ -2,8 +2,9 @@
 ##### 95%
 #### 1-1 Grading Program [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/HaruHonda/e1715f871f273e67f5e520780c9fe528/grading-program.ipynb)
 ##### 90%
-#### 2-1 Linear Regression via Normal Equations [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UwKlZ5SwygZwWU-MPvFe0rD-gE4PEFxl#scrollTo=SfodSubLJVJX)
+#### 2-1 Linear Regression via Normal Equations [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UwKlZ5SwygZwWU-MPvFe0rD-gE4PEFxl#scrollTo=SfodSubLJVJX) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/HaruHonda/e32b9fc23f66d92cd9a1c4c35f14aff8/harukihonda.ipynb) 
 #### 2-2 learn-linreg-NormEq with Gaussian elimination and QR decomposition
+#### 2-0 Word Count Program [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/HaruHonda/e32b9fc23f66d92cd9a1c4c35f14aff8/harukihonda.ipynb) 
 ```
 Question 2. Datasets 
 (a) The 1985 Auto Imports Database
