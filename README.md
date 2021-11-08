@@ -1,8 +1,8 @@
 # Machine Learning
-##### 95%
-#### 1-1 Grading Program [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/HaruHonda/e1715f871f273e67f5e520780c9fe528/grading-program.ipynb)
+##### 100%
+#### 1-1 Grading Program [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/HaruHonda/c6a7ea9b81941a252d7b9f57d1c6bb04/grading-program.ipynb)
 ##### 90%
-#### 2-1 Linear Regression via Normal Equations [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UwKlZ5SwygZwWU-MPvFe0rD-gE4PEFxl#scrollTo=SfodSubLJVJX) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/HaruHonda/e32b9fc23f66d92cd9a1c4c35f14aff8/harukihonda.ipynb) 
+#### 2-1 Linear Regression via Normal Equations [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/HaruHonda/ca635e039952ce7f0c0ba63a6c6dc5c4/harukihonda_305304.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/HaruHonda/e32b9fc23f66d92cd9a1c4c35f14aff8/harukihonda.ipynb) 
 #### 2-2 learn-linreg-NormEq with Gaussian elimination and QR decomposition
 #### 2-0 Word Count Program [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/HaruHonda/e32b9fc23f66d92cd9a1c4c35f14aff8/harukihonda.ipynb) 
 ```
